@@ -5,8 +5,8 @@
  * This program runs single Led 
 */
 //basic.showString('Hello, World!')
-//setup
 
+//setup
 basic.clearScreen()
 pins.digitalWritePin(DigitalPin.P16,0)
 basic.showIcon(IconNames.Happy)
